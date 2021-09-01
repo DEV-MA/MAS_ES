@@ -4,7 +4,7 @@ Monika After Story es un mod para el juego gratuito [Doki Doki Literature Club](
 
 MAS ha sido traducido al español por Traduction Club!
 
-Esta traducción no es oficial, si deseas descargar el mod original en inglés puedes hacerlo desde está [página](http://www.monikaafterstory.com/releases.html)
+Esta traducción no es oficial, si deseas descargar el mod original en inglés puedes hacerlo desde está [página](http://www.monikaafterstory.com/releases.html).
 
 Para descargar la última versión estable, dirigete a nuestra [página](https://papuweb.wixsite.com/monikaafterstoryesp/descargas).
 
