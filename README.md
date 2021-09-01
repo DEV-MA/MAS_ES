@@ -32,4 +32,7 @@ En caso de que presentes algún error al momento de jugar MAS puedes ponerte en 
 [![Discord](https://discord.com/api/guilds/856018133264498718/widget.png?style=banner1)](https://discord.gg/vBzKDscWqT)
 
 # Preguntas frecuentes
-¿Tienes dudas sobre el funcionamiento del mod o te preguntas cómo regalarle cosas a Monika? Puedes consultar nuestra sección de [preguntas frecuentes]().
+¿Tienes dudas sobre el funcionamiento del mod o te preguntas cómo regalarle cosas a Monika? Puedes consultar nuestra sección de [preguntas frecuentes](https://github.com/DEV-MA/MAS_ES/wiki/Preguntas-frecuentes#preguntas-frecuentes).
+
+# Aviso legal
+***Traduction Club!*** no se hace responsable de ningún daño que pudiera ocurrir por el uso de esta traducción en su ordenador.
