@@ -6,7 +6,11 @@ MAS ha sido traducido al español por Traduction Club!
 
 Esta traducción no es oficial, si deseas descargar el mod original en inglés puedes hacerlo desde está [página](http://www.monikaafterstory.com/releases.html).
 
-Para descargar la última versión estable, dirigete a nuestra [página](https://papuweb.wixsite.com/monikaafterstoryesp/descargas).
+Este proyecto ha finalizado, si deseas seguir disfrutando de Monika After Story en español te recomiendo ver este [repositorio.](https://github.com/Slytharbez/Monika-After-Story-ES)
+
+También cuentan con un servidor de discord, saludenlos de mi parte ¿si?
+
+[Discord](https://discord.gg/zmXuRpfKPx)
 
 ### Instalación
 
@@ -24,15 +28,10 @@ Para descargar la última versión estable, dirigete a nuestra [página](https:/
 * Nuevos juegos y actividades que hacer con Monika.
 * Nuevos eventos e historias únicas.
 
-# Contribuir a la traducción
-
-### Bugs y sugerencias
-En caso de que presentes algún error al momento de jugar MAS puedes ponerte en contacto con nosotros en nuestro servidor de Discord, un miembro del club te atenderá en el canal "Solución de problemas".
-
-[![Discord](https://discord.com/api/guilds/856018133264498718/widget.png?style=banner1)](https://discord.gg/vBzKDscWqT)
-
 # Preguntas frecuentes
 ¿Tienes dudas sobre el funcionamiento del mod o te preguntas cómo regalarle cosas a Monika? Puedes consultar nuestra sección de [preguntas frecuentes](https://github.com/DEV-MA/MAS_ES/wiki/Preguntas-frecuentes#preguntas-frecuentes).
+
+¿Volverán a traducir el mod? No, lamentablemente ya no contamos con el tiempo o la energía suficiente para continuar el proyecto, pero hay otro grupo que está llevando a cabo la traducción, ¡te dejé el link arriba ciego!
 
 # Aviso legal
 ***Traduction Club!*** no se hace responsable de ningún daño que pudiera ocurrir por el uso de esta traducción en su ordenador.
